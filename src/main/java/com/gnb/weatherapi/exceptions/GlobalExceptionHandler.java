@@ -1,6 +1,7 @@
 package com.gnb.weatherapi.exceptions;
 
 import com.gnb.weatherapi.dtos.GeneralResponse;
+import com.gnb.weatherapi.dtos.WeatherResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.HttpStatusCode;
 import org.springframework.http.ResponseEntity;
